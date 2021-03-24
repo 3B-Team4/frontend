@@ -7,7 +7,7 @@ const theme = {
   fontFamily: "Arial",
   headerBgColor: "#A5302E",
   headerFontColor: "#fff",
-  headerFontSize: "20px",
+  headerFontSize: "",
   botBubbleColor: "#A5302E",
   botFontColor: "#fff",
   userBubbleColor: "#fff",
